@@ -1,0 +1,62 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/****************************/
+
+.button {
+    padding: 5px 10px; /* top-bottom left-right */
+    border: solid 1px darkgrey;
+    border-radius: 12px;
+
+    color: black;
+    text-decoration: none;
+
+    color: white;
+}
+.button:hover{
+    opacity: 85%;
+    color: black;
+}
+.edit_button {
+    background-color: dodgerblue;
+}
+.details_button {
+    background-color: lightslategrey;
+}
+.delete_button {
+    background-color: red;
+}
+.create_button, .submit_button {
+    padding: 7px 12px;
+    background-color: #0d6efd;
+
+}
+
+.block_top_gap {
+    margin-top: 10px
+}
+.backtolist_button {
+    padding: 7px 12px;
+    background-color: #0d6efd;
+
+}
