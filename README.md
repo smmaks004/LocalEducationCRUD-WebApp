@@ -31,9 +31,4 @@ For this project, I used the following NuGet extensions:
     2.2. Microsoft.AspNetCore.Identity.UI    
     2.3. Microsoft.VisualStudio.Web.CodeGeneration.Design
 
-It should go something like this
-<div align="center">
-   
-![image](https://github.com/user-attachments/assets/f1fd9c2d-4c3b-4266-b7e8-7ccdbf722f8a)
 
-</div>
